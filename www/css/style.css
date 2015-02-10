@@ -80,7 +80,7 @@ hr{
 	border-top: 4px solid #61cfe2;
 }
 
-.navbar .navbar-header .navbar-brand{
+.navbar .navbar-header .navbar-brand, #brand-name{
 	color: #fff;
 	font-weight: 700;
 	font-family: 'Open Sans Condensed', sans-serif;

@@ -2,283 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d4f4fcb-ee7a-460e-9291-e5d172b9508b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/.classpath" afterPath="$PROJECT_DIR$/platforms/android/.classpath" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/.classpath" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/.classpath" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/.documentup.json" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/.documentup.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/.jshintrc" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/.jshintrc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/.npmignore" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/.npmignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/.project" afterPath="$PROJECT_DIR$/platforms/android/.project" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/.project" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/.project" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/.travis.yml" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/http/AbstractHttpInputStream.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/http/AbstractHttpInputStream.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/AbstractOutputStream.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/AbstractOutputStream.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/Address.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/Address.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/ant-build/AndroidManifest.cordova.xml" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/ant-build/AndroidManifest.cordova.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/ant-build/AndroidManifest.cordova.xml" afterPath="$PROJECT_DIR$/platforms/android/ant-build/AndroidManifest.cordova.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/ant-build/AndroidManifest.xml.d" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/ant-build/AndroidManifest.xml.d" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/ant-build/AndroidManifest.xml.d" afterPath="$PROJECT_DIR$/platforms/android/ant-build/AndroidManifest.xml.d" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/AndroidManifest.xml" afterPath="$PROJECT_DIR$/platforms/android/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/AndroidManifest.xml" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/bin/AndroidManifest.xml" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/bin/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/bin/AndroidManifest.xml" afterPath="$PROJECT_DIR$/platforms/android/bin/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/App.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/App.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/AuthenticationToken.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/AuthenticationToken.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/Base64.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/Base64.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/ant-gen/org/apache/cordova/BuildConfig.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/ant-gen/org/apache/cordova/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/gen/org/apache/cordova/BuildConfig.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/gen/org/apache/cordova/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/ant-gen/com/phonegap/helloworld/BuildConfig.java" afterPath="$PROJECT_DIR$/platforms/android/ant-gen/com/phonegap/helloworld/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/gen/com/phonegap/helloworld/BuildConfig.java" afterPath="$PROJECT_DIR$/platforms/android/gen/com/phonegap/helloworld/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/node_modules/q/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/q/CONTRIBUTING.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/CallbackContext.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/CallbackContext.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/Config.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/Config.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/Connection.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/Connection.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/ConnectionPool.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/ConnectionPool.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/CordovaActivity.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/CordovaActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/CordovaArgs.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/CordovaArgs.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/CordovaChromeClient.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/CordovaChromeClient.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/CordovaInterface.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/CordovaInterface.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/CordovaPlugin.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/CordovaPlugin.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/CordovaResourceApi.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/CordovaResourceApi.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/CordovaWebView.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/CordovaWebView.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/CordovaWebViewClient.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/CordovaWebViewClient.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/DirectoryManager.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/DirectoryManager.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/DiskLruCache.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/DiskLruCache.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/Dispatcher.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/Dispatcher.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/tls/DistinguishedNameParser.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/tls/DistinguishedNameParser.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/Dns.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/Dns.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/DroidGap.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/DroidGap.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/spdy/ErrorCode.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/spdy/ErrorCode.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/ExifHelper.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/ExifHelper.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/ExposedJsApi.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/ExposedJsApi.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/Failure.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/Failure.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/FaultRecoveringOutputStream.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/FaultRecoveringOutputStream.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/FileHelper.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/FileHelper.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/spdy/FrameReader.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/spdy/FrameReader.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/spdy/FrameWriter.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/spdy/FrameWriter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/http/HeaderParser.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/http/HeaderParser.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/spdy/HeadersMode.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/spdy/HeadersMode.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/ant-build/HelloWorld-debug-unaligned.apk.d" afterPath="$PROJECT_DIR$/platforms/android/ant-build/HelloWorld-debug-unaligned.apk.d" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/ant-build/HelloWorld.ap_.d" afterPath="$PROJECT_DIR$/platforms/android/ant-build/HelloWorld.ap_.d" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/com/phonegap/helloworld/HelloWorld.java" afterPath="$PROJECT_DIR$/platforms/android/src/com/phonegap/helloworld/HelloWorld.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/spdy/Hpack.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/spdy/Hpack.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/spdy/Http20Draft06.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/spdy/Http20Draft06.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/http/HttpAuthenticator.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/http/HttpAuthenticator.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/http/HttpDate.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/http/HttpDate.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/http/HttpEngine.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/http/HttpEngine.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/HttpResponseCache.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/HttpResponseCache.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/http/HttpTransport.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/http/HttpTransport.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/http/HttpURLConnectionImpl.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/http/HttpURLConnectionImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/http/HttpsEngine.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/http/HttpsEngine.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/http/HttpsURLConnectionImpl.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/http/HttpsURLConnectionImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/IceCreamCordovaWebViewClient.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/IceCreamCordovaWebViewClient.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/spdy/IncomingStreamHandler.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/spdy/IncomingStreamHandler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/JSONUtils.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/JSONUtils.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/Job.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/Job.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/node_modules/q/LICENSE" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/q/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/LICENSE" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/LOG.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/LOG.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/LinearLayoutSoftKeyboardDetect.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/LinearLayoutSoftKeyboardDetect.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/MediaType.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/MediaType.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/spdy/NameValueBlockReader.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/spdy/NameValueBlockReader.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/NamedRunnable.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/NamedRunnable.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/NativeToJsMessageQueue.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/NativeToJsMessageQueue.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/OkAuthenticator.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/OkAuthenticator.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/tls/OkHostnameVerifier.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/tls/OkHostnameVerifier.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/OkHttpClient.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/OkHttpClient.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/OkResponseCache.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/OkResponseCache.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/http/OkResponseCacheAdapter.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/http/OkResponseCacheAdapter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/spdy/Ping.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/spdy/Ping.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/Platform.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/Platform.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/PluginEntry.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/PluginEntry.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/PluginManager.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/PluginManager.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/PluginResult.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/PluginResult.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/http/Policy.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/http/Policy.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/ant-gen/R.java.d" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/ant-gen/R.java.d" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/ant-gen/R.java.d" afterPath="$PROJECT_DIR$/platforms/android/ant-gen/R.java.d" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/ant-gen/com/phonegap/helloworld/R.java" afterPath="$PROJECT_DIR$/platforms/android/ant-gen/com/phonegap/helloworld/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/gen/com/phonegap/helloworld/R.java" afterPath="$PROJECT_DIR$/platforms/android/gen/com/phonegap/helloworld/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/ant-build/R.txt" afterPath="$PROJECT_DIR$/platforms/android/ant-build/R.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/bin/R.txt" afterPath="$PROJECT_DIR$/platforms/android/bin/R.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hooks/README.md" afterPath="$PROJECT_DIR$/hooks/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/node_modules/q/README.md" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/q/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/README.md" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/http/RawHeaders.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/http/RawHeaders.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/Request.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/Request.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/http/RequestHeaders.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/http/RequestHeaders.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/Response.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/Response.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/http/ResponseHeaders.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/http/ResponseHeaders.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/ResponseSource.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/ResponseSource.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/http/RetryableOutputStream.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/http/RetryableOutputStream.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/Route.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/Route.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/RouteDatabase.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/RouteDatabase.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/http/RouteSelector.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/http/RouteSelector.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/ScrollEvent.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/ScrollEvent.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/spdy/Settings.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/spdy/Settings.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/spdy/Spdy3.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/spdy/Spdy3.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/spdy/SpdyConnection.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/spdy/SpdyConnection.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/spdy/SpdyStream.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/spdy/SpdyStream.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/http/SpdyTransport.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/http/SpdyTransport.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/StrictLineReader.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/StrictLineReader.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/http/Transport.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/http/Transport.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/TunnelRequest.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/TunnelRequest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/http/UnknownLengthHttpInputStream.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/http/UnknownLengthHttpInputStream.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/Util.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/Util.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/spdy/Variant.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/spdy/Variant.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/Whitelist.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/Whitelist.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/_where-is-www.txt" afterPath="$PROJECT_DIR$/platforms/android/assets/_where-is-www.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/android.json" afterPath="$PROJECT_DIR$/plugins/android.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/lib/android_sdk_version.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/android_sdk_version.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/android_sdk_version" afterPath="$PROJECT_DIR$/platforms/android/cordova/android_sdk_version" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/css/animate.min.css" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/animate.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/css/animate.min.css" afterPath="$PROJECT_DIR$/www/css/animate.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/lib/appinfo.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/appinfo.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/www/css/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/bootstrap.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/www/js/bootstrap.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/build.bat" afterPath="$PROJECT_DIR$/platforms/android/cordova/build.bat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/lib/build.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/build.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/ant-build/build.prop" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/ant-build/build.prop" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/ant-build/build.prop" afterPath="$PROJECT_DIR$/platforms/android/ant-build/build.prop" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build.xml" afterPath="$PROJECT_DIR$/platforms/android/build.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build.xml" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/build" afterPath="$PROJECT_DIR$/platforms/android/cordova/build" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/cat.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/cat.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/cd.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/cd.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/lib/check_reqs.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/check_reqs.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/check_reqs" afterPath="$PROJECT_DIR$/platforms/android/cordova/check_reqs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/chmod.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/chmod.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/ant-build/classes.dex.d" afterPath="$PROJECT_DIR$/platforms/android/ant-build/classes.dex.d" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/clean.bat" afterPath="$PROJECT_DIR$/platforms/android/cordova/clean.bat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/lib/clean.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/clean.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/clean" afterPath="$PROJECT_DIR$/platforms/android/cordova/clean" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/common.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/common.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/node_modules/q/benchmark/compare-with-callbacks.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/q/benchmark/compare-with-callbacks.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cordova/config.json" afterPath="$PROJECT_DIR$/.cordova/config.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.xml" afterPath="$PROJECT_DIR$/config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/res/xml/config.xml" afterPath="$PROJECT_DIR$/platforms/android/res/xml/config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/cordova.js" afterPath="$PROJECT_DIR$/platforms/android/assets/www/cordova.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/platform_www/cordova.js" afterPath="$PROJECT_DIR$/platforms/android/platform_www/cordova.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/cordova_plugins.js" afterPath="$PROJECT_DIR$/platforms/android/assets/www/cordova_plugins.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/cp.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/cp.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/js/custom.js" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/custom.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/custom.js" afterPath="$PROJECT_DIR$/www/js/custom.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/custom_rules.xml" afterPath="$PROJECT_DIR$/platforms/android/custom_rules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/defaults.xml" afterPath="$PROJECT_DIR$/platforms/android/cordova/defaults.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/lib/device.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/device.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/dirs.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/dirs.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/echo.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/echo.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/lib/emulator.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/emulator.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/error.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/error.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/lib/exec.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/exec.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/exec.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/exec.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/find.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/find.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/font-awesome.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/www/css/font-awesome.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/font/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/platforms/android/assets/www/font/fontawesome-webfont.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/font/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/www/font/fontawesome-webfont.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/images/gradient/g30.html" afterPath="$PROJECT_DIR$/platforms/android/assets/www/images/gradient/g30.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/gradient/g30.html" afterPath="$PROJECT_DIR$/www/images/gradient/g30.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/images/gradient/g40.html" afterPath="$PROJECT_DIR$/platforms/android/assets/www/images/gradient/g40.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/gradient/g40.html" afterPath="$PROJECT_DIR$/www/images/gradient/g40.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/scripts/generate-docs.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/scripts/generate-docs.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/global.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/global.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/fonts/glyphicons-halflings-regular-2.html" afterPath="$PROJECT_DIR$/platforms/android/assets/www/fonts/glyphicons-halflings-regular-2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/fonts/glyphicons-halflings-regular-2.html" afterPath="$PROJECT_DIR$/www/fonts/glyphicons-halflings-regular-2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/fonts/glyphicons-halflings-regular-3.html" afterPath="$PROJECT_DIR$/platforms/android/assets/www/fonts/glyphicons-halflings-regular-3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/fonts/glyphicons-halflings-regular-3.html" afterPath="$PROJECT_DIR$/www/fonts/glyphicons-halflings-regular-3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/fonts/glyphicons-halflings-regular-4.html" afterPath="$PROJECT_DIR$/platforms/android/assets/www/fonts/glyphicons-halflings-regular-4.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/fonts/glyphicons-halflings-regular-4.html" afterPath="$PROJECT_DIR$/www/fonts/glyphicons-halflings-regular-4.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/fonts/glyphicons-halflings-regular.html" afterPath="$PROJECT_DIR$/platforms/android/assets/www/fonts/glyphicons-halflings-regular.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/fonts/glyphicons-halflings-regular.html" afterPath="$PROJECT_DIR$/www/fonts/glyphicons-halflings-regular.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/fonts/glyphicons-halflings-regulard41d.html" afterPath="$PROJECT_DIR$/platforms/android/assets/www/fonts/glyphicons-halflings-regulard41d.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/fonts/glyphicons-halflings-regulard41d.html" afterPath="$PROJECT_DIR$/www/fonts/glyphicons-halflings-regulard41d.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/js/gmaps.js" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/gmaps.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/gmaps.js" afterPath="$PROJECT_DIR$/www/js/gmaps.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/grep.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/grep.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/js/html5shiv.js" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/html5shiv.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/html5shiv.js" afterPath="$PROJECT_DIR$/www/js/html5shiv.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/index.html" afterPath="$PROJECT_DIR$/platforms/android/assets/www/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/lib/install-device.bat" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/install-device.bat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/lib/install-device" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/install-device" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/lib/install-emulator.bat" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/install-emulator.bat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/lib/install-emulator" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/install-emulator" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/js/jquery.arbitrary-anchor.js" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/jquery.arbitrary-anchor.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/jquery.arbitrary-anchor.js" afterPath="$PROJECT_DIR$/www/js/jquery.arbitrary-anchor.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/js/jquery.js" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/jquery.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/jquery.js" afterPath="$PROJECT_DIR$/www/js/jquery.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/js/jquery.knob.js" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/jquery.knob.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/jquery.knob.js" afterPath="$PROJECT_DIR$/www/js/jquery.knob.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/js/jquery.prettyPhoto.js" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/jquery.prettyPhoto.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/jquery.prettyPhoto.js" afterPath="$PROJECT_DIR$/www/js/jquery.prettyPhoto.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/js/jquery.themepunch.plugins.min.js" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/jquery.themepunch.plugins.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/jquery.themepunch.plugins.min.js" afterPath="$PROJECT_DIR$/www/js/jquery.themepunch.plugins.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/js/jquery.themepunch.revolution.min.js" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/jquery.themepunch.revolution.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/jquery.themepunch.revolution.min.js" afterPath="$PROJECT_DIR$/www/js/jquery.themepunch.revolution.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/lib/list-devices.bat" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/list-devices.bat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/lib/list-devices" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/list-devices" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/lib/list-emulator-images.bat" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/list-emulator-images.bat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/lib/list-emulator-images" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/list-emulator-images" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/lib/list-started-emulators.bat" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/list-started-emulators.bat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/lib/list-started-emulators" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/list-started-emulators" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/local.properties" afterPath="$PROJECT_DIR$/platforms/android/local.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/local.properties" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/local.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/log.bat" afterPath="$PROJECT_DIR$/platforms/android/cordova/log.bat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/lib/log.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/log.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/log" afterPath="$PROJECT_DIR$/platforms/android/cordova/log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/ls.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/ls.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/make.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/make.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/mkdir.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/mkdir.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/mv.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/mv.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/.settings/org.eclipse.jdt.core.prefs" afterPath="$PROJECT_DIR$/platforms/android/.settings/org.eclipse.jdt.core.prefs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/.settings/org.eclipse.jdt.core.prefs" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/.settings/org.eclipse.jdt.core.prefs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/node_modules/q/package.json" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/q/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/package.json" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/css/prettyPhoto.css" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/prettyPhoto.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/css/prettyPhoto.css" afterPath="$PROJECT_DIR$/www/css/prettyPhoto.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/proguard-project.txt" afterPath="$PROJECT_DIR$/platforms/android/proguard-project.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/proguard-project.txt" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/proguard-project.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/ant-build/proguard.txt" afterPath="$PROJECT_DIR$/platforms/android/ant-build/proguard.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/project.properties" afterPath="$PROJECT_DIR$/platforms/android/project.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/project.properties" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/project.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/pwd.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/pwd.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/node_modules/q/q.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/q/q.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/node_modules/q/queue.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/q/queue.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/.externalToolBuilders/remove_before_build.launch" afterPath="$PROJECT_DIR$/platforms/android/.externalToolBuilders/remove_before_build.launch" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/js/respond.min.js" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/respond.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/respond.min.js" afterPath="$PROJECT_DIR$/www/js/respond.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/rm.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/rm.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/css/rs-settings.css" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/rs-settings.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/css/rs-settings.css" afterPath="$PROJECT_DIR$/www/css/rs-settings.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/scripts/run-tests.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/scripts/run-tests.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/run.bat" afterPath="$PROJECT_DIR$/platforms/android/cordova/run.bat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/lib/run.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/run.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/run" afterPath="$PROJECT_DIR$/platforms/android/cordova/run" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/node_modules/q/benchmark/scenarios.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/q/benchmark/scenarios.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/sed.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/sed.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sgappmarket.iml" afterPath="$PROJECT_DIR$/.idea/sgappmarket.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/shell.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/shell.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/bin/shjs" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/bin/shjs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/lib/spawn.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/spawn.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/lib/start-emulator.bat" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/start-emulator.bat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/lib/start-emulator" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/start-emulator" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/res/values/strings.xml" afterPath="$PROJECT_DIR$/platforms/android/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/css/style.css" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/css/style.css" afterPath="$PROJECT_DIR$/www/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/tempdir.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/tempdir.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/test.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/test.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/to.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/to.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/toEnd.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/toEnd.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/version.bat" afterPath="$PROJECT_DIR$/platforms/android/cordova/version.bat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/version" afterPath="$PROJECT_DIR$/platforms/android/cordova/version" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/js/waypoints.min.js" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/waypoints.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/waypoints.min.js" afterPath="$PROJECT_DIR$/www/js/waypoints.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/which.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/which.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="sgappmarket.iws" />
@@ -306,8 +31,30 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.89799637" vertical-offset="952" max-vertical-offset="12665">
-              <caret line="85" column="34" selection-start-line="85" selection-start-column="34" selection-end-line="85" selection-end-column="34" />
+            <state vertical-scroll-proportion="0.5878962" vertical-offset="901" max-vertical-offset="12818">
+              <caret line="65" column="61" selection-start-line="65" selection-start-column="61" selection-end-line="65" selection-end-column="61" />
+              <folding>
+                <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.min.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/css/bootstrap.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="255">
+              <caret line="8" column="55293" selection-start-line="8" selection-start-column="55293" selection-end-line="8" selection-end-column="55293" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1266" max-vertical-offset="19329">
+              <caret line="82" column="49" selection-start-line="82" selection-start-column="49" selection-end-line="82" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -367,11 +114,18 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/platforms/android/assets/www/index.html" />
+        <option value="$PROJECT_DIR$/www/css/style.css" />
         <option value="$PROJECT_DIR$/www/index.html" />
       </list>
     </option>
@@ -408,6 +162,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -416,19 +171,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sgappmarket" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sgappmarket_html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -439,12 +183,39 @@
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="155" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="155" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="155" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="829" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="159" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="148" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="154" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="833" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/sgappmarket/www/index.html">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
@@ -452,10 +223,6 @@
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="Chrome" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -471,9 +238,22 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
       <method />
     </configuration>
-    <list size="0" />
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
@@ -488,29 +268,50 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32899022" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899022" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899022" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25679758" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13821752" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899022" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899022" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32899022" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -528,15 +329,222 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/www/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="255">
+          <caret line="8" column="55293" selection-start-line="8" selection-start-column="55293" selection-end-line="8" selection-end-column="55293" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1266" max-vertical-offset="19329">
+          <caret line="82" column="49" selection-start-line="82" selection-start-column="49" selection-end-line="82" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1666">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/local.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/_where-is-www.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="153">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="629" max-vertical-offset="12665">
+          <caret line="37" column="4" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="12818">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="255">
+          <caret line="8" column="55293" selection-start-line="8" selection-start-column="55293" selection-end-line="8" selection-end-column="55293" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1266" max-vertical-offset="19329">
+          <caret line="82" column="49" selection-start-line="82" selection-start-column="49" selection-end-line="82" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1666">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/local.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/_where-is-www.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="153">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="629" max-vertical-offset="12665">
+          <caret line="37" column="4" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="12665">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="255">
+          <caret line="8" column="55293" selection-start-line="8" selection-start-column="55293" selection-end-line="8" selection-end-column="55293" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1266" max-vertical-offset="19329">
+          <caret line="82" column="49" selection-start-line="82" selection-start-column="49" selection-end-line="82" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1666">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/local.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/_where-is-www.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="153">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="629" max-vertical-offset="12665">
+          <caret line="37" column="4" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="621" max-vertical-offset="12665">
+          <caret line="50" column="22" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="255">
+          <caret line="8" column="55293" selection-start-line="8" selection-start-column="55293" selection-end-line="8" selection-end-column="55293" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="19329">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -586,7 +594,59 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="12665">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1666">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/local.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/_where-is-www.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="153">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="629" max-vertical-offset="12665">
+          <caret line="37" column="4" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="12665">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -670,11 +730,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+          <caret line="8" column="55293" selection-start-line="8" selection-start-column="55293" selection-end-line="8" selection-end-column="55293" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1266" max-vertical-offset="19329">
+          <caret line="82" column="49" selection-start-line="82" selection-start-column="49" selection-end-line="82" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.89799637" vertical-offset="952" max-vertical-offset="12665">
-          <caret line="85" column="34" selection-start-line="85" selection-start-column="34" selection-end-line="85" selection-end-column="34" />
-          <folding />
+        <state vertical-scroll-proportion="0.5878962" vertical-offset="901" max-vertical-offset="12818">
+          <caret line="65" column="61" selection-start-line="65" selection-start-column="61" selection-end-line="65" selection-end-column="61" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
