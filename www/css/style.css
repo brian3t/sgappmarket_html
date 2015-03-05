@@ -194,7 +194,13 @@ hr{
 	max-width: 750px;
 	margin: 5px auto;
 }
+/* Call CSS */
 
+.call{
+	padding: 40px 0;
+	ackground: #fff url('../img/service.png') repeat;
+	border-bottom: 2px solid #fff;
+}
 /* Service CSS */
 
 .service{
