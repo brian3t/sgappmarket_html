@@ -198,7 +198,7 @@ hr{
 
 .call{
 	padding: 40px 0;
-	ackground: #fff url('../img/service.png') repeat;
+	/*background: #fff url('../img/service.png') repeat;*/
 	border-bottom: 2px solid #fff;
 }
 /* Service CSS */
