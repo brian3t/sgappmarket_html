@@ -106,7 +106,7 @@ hr{
 
 .bannercontainer .banner{
 	width:100%;
-	height: 350px !important;
+	height: 250px !important;
 	position:relative;
 	overflow: hidden;
 }
@@ -198,7 +198,7 @@ hr{
 
 .call{
 	padding: 40px 0;
-	ackground: #fff url('../img/service.png') repeat;
+	background: #fff url('../img/service.png') repeat;
 	border-bottom: 2px solid #fff;
 }
 /* Service CSS */
