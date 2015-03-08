@@ -90,8 +90,8 @@ hr{
 .navbar .collapse .nav li a{
     color: #fff;
 }
-
-
+/* Menu Dropdown style CSS */
+.dropdown-menu li a{color:#000!important}
 /* Responsive Slider CSS */
 
 .bannercontainer{
