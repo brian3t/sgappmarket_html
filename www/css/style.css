@@ -87,11 +87,11 @@ hr{
     font-size: 25px;
 }
 
-.navbar .collapse .nav li a{
-    color: #fff;
-}
+/*.navbar .collapse .nav li a{*/
+    /*color: #fff;*/
+/*}*/
 /* Menu Dropdown style CSS */
-.dropdown-menu li a{color:#000!important}
+/*.dropdown-menu li a{color:#000!important}*/
 /* Responsive Slider CSS */
 
 .bannercontainer{
@@ -716,51 +716,55 @@ div.ppt {
     background: #15cbeb;
 }
 
-/* Product CSS */
+/* News CSS */
 
-.product{
+.news{
     background: #fff url('../img/product.png') repeat;
     border-top: 2px solid #fff;
     padding: 40px 0;
 }
 
-.product .product-content h3{
+.news .news-content h3{
     margin: 0;
 }
 
-.product .product-content h3 i{
+.news .news-content h3 i{
     color: #2acde0;
     margin-right: 5px;
 }
 
-.product .product-content p{
+.news .news-content p{
     margin: 15px 0;
     font-size: 15px;
     line-height: 25px;
 }
 
-.product .product-content .sub-item i{
+.news .news-content .sub-item i{
     display: inline-block;
     margin-right: 10px;
     margin-bottom: 15px;
     color: #2acde0;
 }
 
-.product .product-content .carousel .item img{
+.news .news-content .carousel .item img{
     border-radius: 10px;
     border: 1px solid #ddd;
 }
 
-.product .product-content .carousel-control {
+.news .news-content .carousel-control {
     background: none;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 }
 
-.product .product-content .carousel-control  span{
+.news .news-content .carousel-control  span{
     color: #000;
     font-size: 60px;
     margin-top: -40px;
 }
+.news .news-content > .row > div{
+    margin-bottom: 12px;
+}
+
 
 /* Pricing Table */
 
