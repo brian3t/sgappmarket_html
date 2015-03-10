@@ -201,35 +201,35 @@ hr{
     background: #fff url('../img/service.png') repeat;
     border-bottom: 2px solid #fff;
 }
-/* Service CSS */
+/* Apps CSS */
 
-.service{
+.apps{
     padding: 40px 0;
     background: #fff url('../img/service.png') repeat;
     border-bottom: 2px solid #fff;
 }
 
-.service .service-top{
+.apps .apps-top{
     border-bottom: 1px solid #eee;
     padding-bottom: 30px;
     margin-bottom: 50px;
 }
 
-.service .service-top .simg{
+.apps .apps-top .simg{
     height: 150px;
     position: relative;
 }
 
-.service .service-top .simg img{
+.apps .apps-top .simg img{
     display: block;
     left: 50%;
     margin-left: -65px;
 }
 
-.service .service-top  .simg-one,
-.service .service-top  .simg-three,
-.service .service-top  .simg-five,
-.service .service-top  .simg-seven{
+.apps .apps-top  .simg-one,
+.apps .apps-top  .simg-three,
+.apps .apps-top  .simg-five,
+.apps .apps-top  .simg-seven{
     position: absolute;
     z-index: 100;
     opacity:0;
@@ -247,14 +247,14 @@ hr{
 }
 
 
-.service .service-top  .simg-three{
+.apps .apps-top  .simg-three{
     margin-top: 10px;
 }
 
-.service .service-top  .simg-two,
-.service .service-top  .simg-four,
-.service .service-top  .simg-six,
-.service .service-top  .simg-eight{
+.apps .apps-top  .simg-two,
+.apps .apps-top  .simg-four,
+.apps .apps-top  .simg-six,
+.apps .apps-top  .simg-eight{
     position: absolute;
     opacity:0;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
@@ -270,20 +270,20 @@ hr{
     animation-delay:0s;
 }
 
-.service .service-top  .simg-one.animation,
-.service .service-top  .simg-two.animation,
-.service .service-top  .simg-three.animation,
-.service .service-top  .simg-four.animation,
-.service .service-top  .simg-five.animation,
-.service .service-top  .simg-six.animation,
-.service .service-top  .simg-seven.animation,
-.service .service-top  .simg-eight.animation{
+.apps .apps-top  .simg-one.animation,
+.apps .apps-top  .simg-two.animation,
+.apps .apps-top  .simg-three.animation,
+.apps .apps-top  .simg-four.animation,
+.apps .apps-top  .simg-five.animation,
+.apps .apps-top  .simg-six.animation,
+.apps .apps-top  .simg-seven.animation,
+.apps .apps-top  .simg-eight.animation{
     opacity: 1;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 }
 
 
-.service .service-item i{
+.apps .apps-item i{
     display: inline-block;
     width: 50px;
     height: 50px;
@@ -293,7 +293,7 @@ hr{
     color: #2acde0;
 }
 
-.service .service-item h3{
+.apps .apps-item h3{
     display: inline;
     margin: 0;
     font-size: 27px;
@@ -301,7 +301,7 @@ hr{
     color: #424a59;
 }
 
-.service .service-item p{
+.apps .apps-item p{
     color: #888;
     margin-left: 54px;
     padding-bottom: 50px;
@@ -1040,6 +1040,13 @@ div.ppt {
     color: #eee;
 }
 
+.anchor{
+    height: 38px;
+    float: left;
+    clear: both;
+    width: 100%;
+}
+
 
 /* Responsive CSS */
 
@@ -1134,8 +1141,4 @@ div.ppt {
 
 @media (max-width: 1050px){
 }
-
-
-
-
 
