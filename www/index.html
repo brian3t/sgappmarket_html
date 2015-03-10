@@ -63,14 +63,13 @@
                     <ul class="dropdown-menu">
                         <li><a href="#apps-business">Apps For Business</a></li>
                         <li><a href="#apps-professional">Apps For Professional</a></li>
-                        <li><a href="#apps-business">Apps For Real Estate Agent</a></li>
-                        <li><a href="#apps-business">Apps For Student</a></li>
+                        <li><a href="#apps-personal">Personal Apps</a></li>
                     </ul>
                 </li>
-                <li><a href="#.team">About US</a></li>
-                <li><a href="#.feature">Our Solution</a></li>
+                <li><a href="#aboutUs">About US</a></li>
+                <li><a href="#solutions">Our Solutions</a></li>
                 <li><a href="#news">News</a></li>
-                <li><a href="#.contact">Contact Us</a></li>
+                <li><a href="#contactForm">Contact Us</a></li>
 
                 <!--<li><a href="#.portfolio">Portfolio</a></li>
                 <li><a href="#.product">Product</a></li>
@@ -119,19 +118,6 @@
 
 <!-- End Revolution Slider -->
 
-
-<!-- Start  Hero -->
-<!--<div class="hero">-->
-<!--<div class="container">-->
-<!--<div class="hero-head">-->
-<!--<h1 class="hero-h1 animated"><strong>Welcome</strong> Back</h1>-->
-<!--<p class="hero-p animated">The standard chunk of lorem ipsum used since the hello is reproduced below for those ipsum used since the interested de Cicero</p>-->
-<!--</div>-->
-<!--<span id="service"></span>-->
-<!--</div>-->
-<!--</div>-->
-
-<!-- End Hero -->
 <!-- Begin Contact Add Alter-->
 <div class="call">
     <div class="container-fluid text-center">
@@ -141,81 +127,102 @@
 </div>
 
 <!-- End of Contact -->
+
 <div class="apps" id="apps">
 
     <!-- Start apps -->
+    <script>
+        var appDetails = {};
+        appDetails['fnb'] = [{name: "Restaurants"}, {name: "Foodcourts"}];
+        appDetails['entertainment'] = [{name: "Movies"}, {name: "Spa"}, {name: "Night Club"}];
+        appDetails['recruitment'] = [{name: "Jobs agency"}];
+        appDetails['prop'] = [];
+
+    </script>
     <div id="apps-business" class="anchor">
     </div>
     <div class="container">
         <h2 class="head">Apps For Business</h2>
 
-        <p class="para">Built for teamwork, with enterprise-grade technologies.</p>
+        <!--<p class="para">Built for teamwork, with enterprise-grade technologies.</p>-->
 
         <div class="apps-top">
             <div class="row">
-                <div class="col-md-3 col-sm-3">
-                    <div class="text-center">
+                <div class="col-md-3 col-sm-3" data-app-id="fnb">
+                    <div class="text-center box-shadow">
                         <div class="simg">
                             <img src="img/apps/12.png" alt="" class="simg-one animated"/>
                             <img src="img/apps/11.png" alt="" class="simg-two animated"/>
                         </div>
-                        <h3 data-app-id="1">Business App 1</h3>
+                        <h3>Food & Beverages: Restaurants, Foodcourts</h3>
                     </div>
                 </div>
-                <div class="col-md-3 col-sm-3">
-                    <div class="text-center">
+                <div class="col-md-3 col-sm-3" data-app-id="entertainment">
+                    <div class="text-center box-shadow">
                         <div class="simg">
                             <img src="img/apps/22.png" alt="" class="simg-three animated"/>
                             <img src="img/apps/21.png" alt="" class="simg-four animated"/>
                         </div>
-                        <h3 data-app-id="2">Business App 2</h3>
+                        <h3>Entertainment: Movies, Spa, Night Club</h3>
                     </div>
                 </div>
-                <div class="col-md-3 col-sm-3">
-                    <div class="text-center">
+                <div class="col-md-3 col-sm-3" data-app-id="recruitment">
+                    <div class="text-center box-shadow">
                         <div class="simg">
                             <img src="img/apps/32.png" alt="" class="simg-five animated"/>
                             <img src="img/apps/31.png" alt="" class="simg-six animated"/>
                         </div>
-                        <h3 data-app-id="3">Business App 3</h3>
+                        <h3>Recruitment: Jobs Agency</h3>
                     </div>
                 </div>
-                <div class="col-md-3 col-sm-3">
-                    <div class="text-center">
+                <div class="col-md-3 col-sm-3" data-app-id="prop">
+                    <div class="text-center box-shadow">
                         <div class="simg">
                             <img src="img/apps/42.png" alt="" class="simg-seven animated"/>
                             <img src="img/apps/41.png" alt="" class="simg-eight animated"/>
                         </div>
-                        <h3 data-app-id="4">Business App 4</h3>
+                        <h3>Property/Real Estate</h3>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-3" data-app-id="retails">
+                    <div class="text-center box-shadow">
+                        <div class="simg">
+                            <img src="img/apps/42.png" alt="" class="simg-seven animated"/>
+                            <img src="img/apps/41.png" alt="" class="simg-eight animated"/>
+                        </div>
+                        <h3>Retails: Shops</h3>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-3" data-app-id="education">
+                    <div class="text-center box-shadow">
+                        <div class="simg">
+                            <img src="img/apps/42.png" alt="" class="simg-seven animated"/>
+                            <img src="img/apps/41.png" alt="" class="simg-eight animated"/>
+                        </div>
+                        <h3>Education/Tuition Center</h3>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-3" data-app-id="sports">
+                    <div class="text-center box-shadow">
+                        <div class="simg">
+                            <img src="img/apps/42.png" alt="" class="simg-seven animated"/>
+                            <img src="img/apps/41.png" alt="" class="simg-eight animated"/>
+                        </div>
+                        <h3>Sports/Gym Club</h3>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-3" data-app-id="billiards">
+                    <div class="text-center box-shadow">
+                        <div class="simg">
+                            <img src="img/apps/42.png" alt="" class="simg-seven animated"/>
+                            <img src="img/apps/41.png" alt="" class="simg-eight animated"/>
+                        </div>
+                        <h3>Billiards</h3>
                     </div>
                 </div>
             </div>
         </div>
 
-
-        <!--<div class="row">-->
-        <!--<div class="col-md-4 col-sm-4">-->
-        <!--<div class="apps-item">-->
-        <!--<i class="icon-spinner"></i>-->
-        <!--<h3>Omnis votas</h3>-->
-        <!--<p>Temporibus autem quibusdam et voluptates repudiandae sint et molestiae non.</p>-->
-        <!--</div>-->
-        <!--</div>-->
-        <!--<div class="col-md-4 col-sm-4">-->
-        <!--<div class="apps-item">-->
-        <!--<i class="icon-cog"></i>-->
-        <!--<h3>Worse pains</h3>-->
-        <!--<p>Sed ut perspiciatis unde omnis iste laudantium, totam rem aperiam, eaque ipsa quae inventore.</p>-->
-        <!--</div>-->
-        <!--</div>-->
-        <!--<div class="col-md-4 col-sm-4">-->
-        <!--<div class="apps-item">-->
-        <!--<i class="icon-bug"></i>-->
-        <!--<h3>Earum rerum</h3>-->
-        <!--<p>Veritatis et quasi architecto beatae necessitatibus saepe eveniet ut et molestiae non recusandae.</p>-->
-        <!--</div>-->
-        <!--</div>-->
-        <!--</div>-->
     </div>
 
     <div id="apps-professional" class="anchor">
@@ -223,213 +230,71 @@
     <div class="container">
         <h2 class="head">Apps For Professional</h2>
 
-        <p class="para">Built for professional, tailored to specific industries.</p>
+        <!--<p class="para">Built for professional, tailored to specific industries.</p>-->
 
         <div class="apps-top">
             <div class="row">
                 <div class="col-md-3 col-sm-3">
-                    <div class="text-center">
+                    <div class="text-center box-shadow">
                         <div class="simg">
                             <img src="img/apps/12.png" alt="" class="simg-one animated"/>
                             <img src="img/apps/11.png" alt="" class="simg-two animated"/>
                         </div>
-                        <h3 data-app-id="5">Professional App 1</h3>
+                        <h3 data-app-id="propAgents">Property Agents</h3>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-3">
-                    <div class="text-center">
+                    <div class="text-center box-shadow">
                         <div class="simg">
                             <img src="img/apps/22.png" alt="" class="simg-three animated"/>
                             <img src="img/apps/21.png" alt="" class="simg-four animated"/>
                         </div>
-                        <h3 data-app-id="6">Professional App 2</h3>
+                        <h3 data-app-id="financeAgents">Financial Agents</h3>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-3">
-                    <div class="text-center">
+                    <div class="text-center box-shadow">
                         <div class="simg">
                             <img src="img/apps/32.png" alt="" class="simg-five animated"/>
                             <img src="img/apps/31.png" alt="" class="simg-six animated"/>
                         </div>
-                        <h3 data-app-id="7">Professional App 3</h3>
+                        <h3 data-app-id="stockBrokers">Stock Brokers</h3>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-3">
-                    <div class="text-center">
+                    <div class="text-center box-shadow">
                         <div class="simg">
                             <img src="img/apps/42.png" alt="" class="simg-seven animated"/>
                             <img src="img/apps/41.png" alt="" class="simg-eight animated"/>
                         </div>
-                        <h3 data-app-id="8">Professional App 4</h3>
+                        <h3 data-app-id="carAgents">Car Agents</h3>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-3">
+                    <div class="text-center box-shadow">
+                        <div class="simg">
+                            <img src="img/apps/42.png" alt="" class="simg-seven animated"/>
+                            <img src="img/apps/41.png" alt="" class="simg-eight animated"/>
+                        </div>
+                        <h3 data-app-id="bloggers">Bloggers</h3>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-3">
+                    <div class="text-center box-shadow">
+                        <div class="simg">
+                            <img src="img/apps/42.png" alt="" class="simg-seven animated"/>
+                            <img src="img/apps/41.png" alt="" class="simg-eight animated"/>
+                        </div>
+                        <h3 data-app-id="recruiters">Recruiters</h3>
                     </div>
                 </div>
             </div>
         </div>
 
     </div>
-    <span id="feature"></span>
+    <span id="aboutUs"></span>
 </div>
 <!-- End Service -->
-
-<!-- Start Feature -->
-
-<div class="feature">
-    <div class="container">
-        <h2 class="head">FEATURE</h2>
-
-        <p class="para">Et harum quidem rerum et expedita distinctio.</p>
-
-        <div class="row">
-            <div class="col-md-3 col-sm-6">
-                <div class="feature-item animated">
-                    <i class="icon-ok green"></i>
-
-                    <h3>Unde Omnis</h3>
-
-                    <p>Lusto odi dig mos sed quia non nquam eius .</p>
-                </div>
-            </div>
-            <div class="col-md-3 col-sm-6">
-                <div class="feature-item animated">
-                    <i class="icon-code-fork voilet"></i>
-
-                    <h3>Maiores Alias</h3>
-
-                    <p>Itaque earu blan dit iis prae senm rerums.</p>
-                </div>
-            </div>
-        </div>
-    </div>
-    <span id="portfoliolink"></span>
-</div>
-
-<!-- End Feature -->
-
-<!-- Start Portfolio -->
-<div class="portfolio">
-    <div class="container">
-        <h2 class="head">PORTFOLIO</h2>
-
-        <p class="para">Et harum quidem rerum et expedita distinctio.</p>
-
-
-        <div id="portfolio">
-            <!-- Add the above used filter names inside div tag. You can add more than one filter names. For image lightbox you need to include "a" tag pointing to image link, along with the class "prettyphoto". -->
-            <div class="row">
-                <div class="col-md-3 col-sm-6">
-                    <div class="p-item animated">
-                        <!-- Portfolio Image -->
-                        <a href="img/portfolio/1.jpg" class="prettyphoto">
-                            <img src="img/portfolio/tn1.jpg" alt=""/>
-                            <!-- Portfolio caption -->
-                            <div class="pcap">
-                                <h4>Lorem ipsum dolor</h4>
-
-                                <p>Sed justo dui, scelerisque ut vel, eleifend id erat.</p>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6">
-                    <div class="p-item animated">
-                        <a href="img/portfolio/2.jpg" class="prettyphoto">
-                            <img src="img/portfolio/tn2.jpg" alt=""/>
-
-                            <div class="pcap">
-                                <h4>Lorem ipsum dolor</h4>
-
-                                <p>Sed justo dui, scelerisque ut vel, eleifend id erat.</p>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6">
-                    <div class="p-item animated">
-                        <a href="img/portfolio/3.jpg" class="prettyphoto">
-                            <img src="img/portfolio/tn3.jpg" alt=""/>
-
-                            <div class="pcap">
-                                <h4>Lorem ipsum dolor</h4>
-
-                                <p>Sed justo dui, scelerisque ut vel, eleifend id erat.</p>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6">
-                    <div class="p-item animated">
-                        <a href="img/portfolio/4.jpg" class="prettyphoto">
-                            <img src="img/portfolio/tn4.jpg" alt=""/>
-
-                            <div class="pcap">
-                                <h4>Lorem ipsum dolor</h4>
-
-                                <p>Sed justo dui, scelerisque ut vel, eleifend id erat.</p>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-3 col-sm-6">
-                    <div class="p-item animated">
-                        <a href="img/portfolio/5.jpg" class="prettyphoto">
-                            <img src="img/portfolio/tn5.jpg" alt=""/>
-
-                            <div class="pcap">
-                                <h4>Lorem ipsum dolor</h4>
-
-                                <p>Sed justo dui, scelerisque ut vel, eleifend id erat.</p>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6">
-                    <div class="p-item animated">
-                        <a href="img/portfolio/6.jpg" class="prettyphoto">
-                            <img src="img/portfolio/tn6.jpg" alt=""/>
-
-                            <div class="pcap">
-                                <h4>Lorem ipsum dolor</h4>
-
-                                <p>Sed justo dui, scelerisque ut vel, eleifend id erat.</p>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6">
-                    <div class="p-item animated">
-                        <a href="img/portfolio/7.jpg" class="prettyphoto">
-                            <img src="img/portfolio/tn7.jpg" alt=""/>
-
-                            <div class="pcap">
-                                <h4>Lorem ipsum dolor</h4>
-
-                                <p>Sed justo dui, scelerisque ut vel, eleifend id erat.</p>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6">
-                    <div class="p-item animated">
-                        <a href="img/portfolio/8.jpg" class="prettyphoto">
-                            <img src="img/portfolio/tn8.jpg" alt=""/>
-
-                            <div class="pcap">
-                                <h4>Lorem ipsum dolor</h4>
-
-                                <p>Sed justo dui, scelerisque ut vel, eleifend id erat.</p>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <span id="about"></span>
-</div>
-
-<!-- End Portfolio -->
 
 <!-- Start About Us -->
 <div class="team">
@@ -439,7 +304,7 @@
         <p class="para">Et harum quidem rerum et expedita distinctio.</p>
 
         <div class="row">
-            <div class="col-md-3 col-sm-6">
+            <div class="col-md-6 col-sm-6">
                 <div class="team-member animated">
                     <img src="img/9.jpg" class="img-responsive" alt=""/>
 
@@ -458,7 +323,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 col-sm-6">
+            <div class="col-md-6 col-sm-6">
                 <div class="team-member animated">
                     <img src="img/10.jpg" class="img-responsive" alt=""/>
 
@@ -479,62 +344,43 @@
             </div>
         </div>
         <hr/>
-        <!-- Start Knob -->
-
-        <h3 class="about-sub">Experience</h3>
-
-        <p class="para">Et harum quidem rerum et expedita distinctio dummy text of the printing and typeset has been the
-            industry's.</p>
-
-        <div class="experience">
-            <div class="row">
-                <div class="col-md-3 col-sm-6">
-                    <div class="e-item animated">
-                        <input class="knob" data-angleOffset=-125 data-angleArc=250 data-fgColor="#29c614" value="80">
-                        <h4>Developing</h4>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6">
-                    <div class="e-item animated">
-                        <input class="knob" data-angleOffset=-125 data-angleArc=250 data-fgColor="#e31822" value="55">
-                        <h4>Testing</h4>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6">
-                    <div class="e-item animated">
-                        <input class="knob" data-angleOffset=-125 data-angleArc=250 data-fgColor="#1ed2f2" value="75">
-                        <h4>Programming</h4>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6">
-                    <div class="e-item animated">
-                        <input class="knob" data-angleOffset=-125 data-angleArc=250 data-fgColor="#ff8728" value="90">
-                        <h4>Coding</h4>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <!-- End Knob -->
-
     </div>
+    <span id="solutions"></span>
 </div>
 <!-- End About Us -->
 
-<!-- Cta Start -->
 
-<div class="cta">
+<!-- Start solutions -->
+
+<div class="solutions">
     <div class="container">
-        <div class="cta-content">
-            <!-- Text and Button link for CTA -->
-            <span><strong>Et harum quidem rerum</strong> facilis est et distinctio in infancy.</span>
-            <a href="#">Expound an teac</a>
+        <h2 class="head">Our solutions</h2>
+
+        <p class="para">Et harum quidem rerum et expedita distinctio.</p>
+
+        <div class="row">
+            <div class="col-md-6 col-sm-6">
+                <div class="solutions-item animated">
+                    <i class="icon-ok green"></i>
+
+                    <h3>Unde Omnis</h3>
+
+                    <p>Lusto odi dig mos sed quia non nquam eius .</p>
+                </div>
+            </div>
+            <div class="col-md-6 col-sm-6">
+                <div class="solutions-item animated">
+                    <i class="icon-code-fork voilet"></i>
+
+                    <h3>Maiores Alias</h3>
+
+                    <p>Itaque earu blan dit iis prae senm rerums.</p>
+                </div>
+            </div>
         </div>
     </div>
-    <span id="product"></span>
+    <span id="portfoliolink"></span>
 </div>
-
-<!-- End CTa -->
 
 <!-- Start News -->
 <div class="news" id="news">
@@ -546,101 +392,48 @@
             <div class="row">
                 <!-- News Item -->
                 <div class="col-md-12">
-                    <h3><i class="icon-puzzle-piece"></i> News number one</h3>
+                    <h3><i class="icon-puzzle-piece"></i> The Week in Mobile: March 1-7, 2015</h3>
 
-                    <p>Aut rerum necessitatibus saepe eveniet ut stiae non recusandae. Itaque earum rerum hic tenetur ae
-                        box sapiente delectus.</p>
+                    <p>Mobile World Congress sees major innovation, Apple Watch App previews, Google makes searching
+                        mobile-friendly and more.</p>
 
                     <div class="sub-item">
                         <div class="item">
-                            <i class="icon-check"></i>
-                            <span>Dignissimos ducimus blanditiis.</span>
-                        </div>
-                        <div class="item">
-                            <i class="icon-check"></i>
-                            <span>Voluptas assumenda ess dolor repellendus.</span>
-                        </div>
-                        <div class="item">
-                            <i class="icon-check"></i>
-                            <span>Foresee the pain and troublet areto ensue.</span>
-                        </div>
-                        <div class="item">
-                            <i class="icon-check"></i>
-                            <span>Pleasures to secure other greater pleasu.</span>
-                        </div>
-                        <div class="item">
-                            <i class="icon-check"></i>
-                            <span>Duty through weakness of will, which is thes.</span>
-                        </div>
-                        <div class="item">
-                            <i class="icon-check"></i>
-                            <span>The wise man therefore alwain these matter.</span>
+                            <p><i class="icon-info-sign"></i>
+                                Release of the much anticipated Apple Watch is upon us, and with it comes the launch of
+                                a healthy selection of third-party apps, which follow strict design guidelines set by
+                                Apple.</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-12">
-                    <h3><i class="icon-puzzle-piece"></i> News number two</h3>
+                    <h3><i class="icon-puzzle-piece"></i> The Week in Mobile: Feb. 22-28, 2015</h3>
 
-                    <p>Aut rerum necessitatibus saepe eveniet ut stiae non recusandae. Itaque earum rerum hic tenetur ae
-                        box sapiente delectus.</p>
+                    <p>Google launches Android for Work, iOS apps see record downloads, Google Wallet makes big moves
+                        and more.</p>
 
                     <div class="sub-item">
                         <div class="item">
-                            <i class="icon-check"></i>
-                            <span>Dignissimos ducimus blanditiis.</span>
-                        </div>
-                        <div class="item">
-                            <i class="icon-check"></i>
-                            <span>Voluptas assumenda ess dolor repellendus.</span>
-                        </div>
-                        <div class="item">
-                            <i class="icon-check"></i>
-                            <span>Foresee the pain and troublet areto ensue.</span>
-                        </div>
-                        <div class="item">
-                            <i class="icon-check"></i>
-                            <span>Pleasures to secure other greater pleasu.</span>
-                        </div>
-                        <div class="item">
-                            <i class="icon-check"></i>
-                            <span>Duty through weakness of will, which is thes.</span>
-                        </div>
-                        <div class="item">
-                            <i class="icon-check"></i>
-                            <span>The wise man therefore alwain these matter.</span>
+                            <p><i class="icon-info-sign"></i>Google Makes a Play for the Enterprise with Launch of
+                                Android for Work
+                                In an attempt to get more companies to embrace Android smartphones for work-related
+                                tasks, Google has launched Android for Work, which is a part of the company’s wider
+                                Google for Work product line.</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-12">
-                    <h3><i class="icon-puzzle-piece"></i> News number three</h3>
+                    <h3><i class="icon-puzzle-piece"></i> The Week in Mobile: Feb. 15-21, 2015</h3>
 
-                    <p>Aut rerum necessitatibus saepe eveniet ut stiae non recusandae. Itaque earum rerum hic tenetur ae
-                        box sapiente delectus.</p>
+                    <p>5 million Apple Watches headed to market, Samsung joins the mobile payment game, tips for
+                        creating a vital app and more</p>
 
                     <div class="sub-item">
                         <div class="item">
-                            <i class="icon-check"></i>
-                            <span>Dignissimos ducimus blanditiis.</span>
-                        </div>
-                        <div class="item">
-                            <i class="icon-check"></i>
-                            <span>Voluptas assumenda ess dolor repellendus.</span>
-                        </div>
-                        <div class="item">
-                            <i class="icon-check"></i>
-                            <span>Foresee the pain and troublet areto ensue.</span>
-                        </div>
-                        <div class="item">
-                            <i class="icon-check"></i>
-                            <span>Pleasures to secure other greater pleasu.</span>
-                        </div>
-                        <div class="item">
-                            <i class="icon-check"></i>
-                            <span>Duty through weakness of will, which is thes.</span>
-                        </div>
-                        <div class="item">
-                            <i class="icon-check"></i>
-                            <span>The wise man therefore alwain these matter.</span>
+                            <p><i class="icon-info-sign"></i>Apple has ordered more than 5 million Apple Watches, which
+                                will hit the market in April and are intended to cover the first three months of sales.
+                                At these numbers, Apple is aiming to sell more than five times the number of Android
+                                Wear Smartwatches sold in 2014 … in a single quarter.</p>
                         </div>
                     </div>
                 </div>
@@ -649,104 +442,12 @@
             </div>
         </div>
     </div>
-    <span id="ptable"></span>
+    <span id="contactForm"></span>
 </div>
 
-<!-- End Product -->
+<!-- End News -->
 
-<!-- Start Pricing Table -->
-
-<div class="ptable">
-    <div class="container">
-        <!-- Pricing heading and paragraph -->
-        <h2 class="head">Pricing</h2>
-
-        <p class="para">Et harum quidem rerum et expedita distinctio.</p>
-
-        <div class="row">
-            <div class="col-md-3 col-sm-6">
-                <!-- Pricing table list -->
-                <div class="phighlight ptable-content animated">
-                    <!-- Heading of item -->
-                    <h4>ENTERPRISE</h4>
-
-                    <p>This book is a treatise.</p>
-                    <!-- Item cost -->
-                    <span class="pcost">$140.50/pc</span>
-                    <!-- Item features list -->
-                    <ul class="list">
-                        <li>1200 Pages</li>
-                        <li>20 Stories</li>
-                        <li>24/7 Support</li>
-                    </ul>
-                    <!-- Buy now button -->
-                    <a href="#" class="btn btn-info">Buy It Now</a>
-                </div>
-            </div>
-            <div class="col-md-3 col-sm-6">
-                <!-- Pricing table list -->
-                <div class="ptable-content animated">
-                    <!-- Heading of item -->
-                    <h4>Small</h4>
-
-                    <p>This book is an eiusmise.</p>
-                    <!-- Item cost -->
-                    <span class="pcost">$190.50/pc</span>
-                    <!-- Item features list -->
-                    <ul class="list">
-                        <li>1700 Pages</li>
-                        <li>28 Stories</li>
-                        <li>24/7 Support</li>
-                    </ul>
-                    <!-- Buy now button -->
-                    <a href="#" class="btn btn-info">Buy It Now</a>
-                </div>
-            </div>
-            <div class="col-md-3 col-sm-6">
-                <!-- Pricing table list -->
-                <div class="ptable-content animated">
-                    <!-- Heading of item -->
-                    <h4>Basic</h4>
-
-                    <p>This book is an aboriose.</p>
-                    <!-- Item cost -->
-                    <span class="pcost">$130.50/pc</span>
-                    <!-- Item features list -->
-                    <ul class="list">
-                        <li>1100 Pages</li>
-                        <li>18 Stories</li>
-                        <li>24/7 Support</li>
-                    </ul>
-                    <!-- Buy now button -->
-                    <a href="#" class="btn btn-info">Buy It Now</a>
-                </div>
-            </div>
-            <div class="col-md-3 col-sm-6">
-                <!-- Pricing table list -->
-                <div class="ptable-content animated">
-                    <!-- Heading of item -->
-                    <h4>Business</h4>
-
-                    <p>This book is a molestse.</p>
-                    <!-- Item cost -->
-                    <span class="pcost">$250.50/pc</span>
-                    <!-- Item features list -->
-                    <ul class="list">
-                        <li>2200 Pages</li>
-                        <li>32 Stories</li>
-                        <li>24/7 Support</li>
-                    </ul>
-                    <!-- Buy now button -->
-                    <a href="#" class="btn btn-info">Buy It Now</a>
-                </div>
-            </div>
-        </div>
-        <span id="contact"></span>
-    </div>
-</div>
-
-<!-- End Pricing Table -->
-<div id="contactForm" class="contact">
+<div class="contact">
     <div class="contact-area">
         <div class="contact-form">
             <!-- Contact form  -->

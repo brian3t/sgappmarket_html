@@ -127,9 +127,9 @@ $('.simg-eight').waypoint(function (down) {
 }, {offset: '70%'});
 
 
-/* Feature */
+/* Solutions */
 
-$('.feature-item').waypoint(function (down) {
+$('.solutions-item').waypoint(function (down) {
   $(this).addClass('animation');
   $(this).addClass('bounceInUp');
 }, {offset: '70%'});
@@ -184,6 +184,9 @@ $(function () {
   });
 
   $('li.dropdown > ul.dropdown-menu > li > a').on('click', function () {
+    $('.collapse').collapse('hide');
+  });
+  $('.navbar-nav a:not([data-toggle])').on('click', function () {
     $('.collapse').collapse('hide');
   });
   $('[data-app-id]').on('click', function(){

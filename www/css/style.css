@@ -208,6 +208,14 @@ hr{
     background: #fff url('../img/service.png') repeat;
     border-bottom: 2px solid #fff;
 }
+.apps div.row > div{
+    margin-top: 8px;
+    overflow: hidden;
+}
+.apps div.row > div > div{
+    padding: 12px 0px 2px 0px;
+    height: 272px;
+}
 
 .apps .apps-top{
     border-bottom: 1px solid #eee;
@@ -310,23 +318,23 @@ hr{
 }
 
 
-/* Feature CSS */
+/* solutions CSS */
 
-.feature{
+.solutions{
     background: #fff url('../img/8.jpg') center center repeat;
     padding: 40px 0;
     box-shadow: inset 0 0 10px #000;
 }
 
-.feature .container .head{
+.solutions .container .head{
     color: #fff;
 }
 
-.feature .container .para{
+.solutions .container .para{
     color: #fff;
 }
 
-.feature .feature-item{
+.solutions .solutions-item{
     max-width: 300px;
     margin: 0 auto;
     margin-bottom: 20px;
@@ -350,12 +358,12 @@ hr{
     -o-animation-delay: 0s;
 }
 
-.feature .feature-item.animation{
+.solutions .solutions-item.animation{
     opacity: 1;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 }
 
-.feature .feature-item i{
+.solutions .solutions-item i{
     display: inline-block;
     width: 60px;
     height: 60px;
@@ -367,30 +375,30 @@ hr{
     background: rgba(0, 0, 0, 0.2);
 }
 
-.feature .feature-item .green{
+.solutions .solutions-item .green{
     background: #29c614;
 }
 
-.feature .feature-item .red{
+.solutions .solutions-item .red{
     background: #e31822;
 }
 
-.feature .feature-item .blue{
+.solutions .solutions-item .blue{
     background: #1ed2f2;
 }
 
-.feature .feature-item .voilet{
+.solutions .solutions-item .voilet{
     background: #ff8728;
 }
 
-.feature .feature-item h3{
+.solutions .solutions-item h3{
     margin: 0;
     margin-top: 12px;
     color: #fff;
     font-size: 23px;
 }
 
-.feature .feature-item p{
+.solutions .solutions-item p{
     padding-top: 10px;
     color: #fff;
     font-size: 15px;
@@ -1047,6 +1055,12 @@ div.ppt {
     width: 100%;
 }
 
+.box-shadow{
+    -moz-box-shadow:    inset 0 0 5px rgb(20,20,20);
+    -webkit-box-shadow: inset 0 0 5px rgb(20,20,20);
+    box-shadow:         inset 0 0 5px rgb(20,20,20);
+    border-radius: 8px;
+}
 
 /* Responsive CSS */
 
@@ -1068,7 +1082,6 @@ div.ppt {
 
 /* Tablets */
 @media (max-width: 767px){
-
 
     .bannercontainer .banner h5{
         font-size: 14px !important;
@@ -1140,5 +1153,13 @@ div.ppt {
 }
 
 @media (max-width: 1050px){
+
+}
+
+/*big desktops*/
+@media (min-width: 1050px){
+    .apps div.row > div {
+        cursor: pointer;
+    }
 }
 
