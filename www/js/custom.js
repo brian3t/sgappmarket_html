@@ -38,8 +38,8 @@ var map;
 $(document).ready(function () {
   map = new GMaps({
     el: '#map',
-    lat: -12.043333,
-    lng: -77.028333,
+    lat: 1.294804,
+    lng: 103.859332,
     zoomControl: true,
     zoomControlOpt: {
       style: 'SMALL',
@@ -168,6 +168,41 @@ $('.ptable-content').waypoint(function (down) {
 
 $(".totop").hide();
 
+var populateNews = function (data, settings) {
+  var count = data.category.post_count;
+  var newsItems = [];
+  if (count > 3) count = 3;
+  for (var i = 0; i < count; i++){
+    var ppp = data.posts[i];
+    var newsItem = $('<div>').addClass("col-md-12");
+    newsItem.append($('<h3>').text(ppp.title_plain + "...").prepend($('<i>').addClass("icon-puzzle-piece")));
+    newsItem.append($('<p>').html(ppp.excerpt));
+    var subItem = $('<div>').addClass("sub-item");
+    var contentAfterExcerpt = ppp.content.substr(ppp.excerpt.length);
+    newsItems.push(newsItem.html());
+  }
+  $('#news > .container > .news-content > .row').html(newsItems);
+
+};
+
+var populateBlogs = function (data, settings) {
+  var count = data.category.post_count;
+  var blogsItems = [];
+  if (count > 3) count = 3;
+  for (var i = 0; i < count; i++){
+    var ppp = data.posts[i];
+    var blogsItem = $('<div>').addClass("col-md-12");
+    blogsItem.append($('<h3>').text(ppp.title_plain + "...").prepend($('<i>').addClass("icon-book")));
+    blogsItem.append($('<p>').html(ppp.excerpt));
+    var subItem = $('<div>').addClass("sub-item");
+    var contentAfterExcerpt = ppp.content.substr(ppp.excerpt.length);
+    blogsItems.push(blogsItem.html());
+  }
+  $('#blogs > .container > .blogs-content > .row').html(blogsItems);
+
+};
+
+
 $(function () {
   $(window).scroll(function () {
     if ($(this).scrollTop() > 300) {
@@ -189,11 +224,26 @@ $(function () {
   $('.navbar-nav a:not([data-toggle])').on('click', function () {
     $('.collapse').collapse('hide');
   });
-  $('[data-app-id]').on('click', function(){
+  $('[data-app-id]').on('click', function () {
     var appDetailModal = $("#appDetailModal");
     appDetailModal.modal('show');
     $(appDetailModal.find('h4')).text("App " + $(this).data('app-id'));
-  })
+  });
+
+  var sgappNewsUrl = "http://sgappmarket.com/?json=get_category_posts&id=11";
+  var sgappBlogsUrl = "http://sgappmarket.com/?json=get_category_posts&id=12&count=5&page=1";
+  var settings = {1: "A"};
+
+  //populate 3 latest news
+  $.getJSON(sgappNewsUrl).done(function (data) {
+    populateNews.apply(null, [data, settings])
+  });
+
+  //populate 5 latest blogs
+  $.getJSON(sgappBlogsUrl).done(function (data) {
+    populateBlogs.apply(null, [data, settings])
+  });
+
 
 });
 
