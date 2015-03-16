@@ -175,7 +175,7 @@ var populateNews = function (data, settings) {
   for (var i = 0; i < count; i++){
     var ppp = data.posts[i];
     var newsItem = $('<div>').addClass("col-md-12");
-    newsItem.append($('<h3>').text(ppp.title_plain + "...").prepend($('<i>').addClass("icon-puzzle-piece")));
+    newsItem.append($('<h3>').text(" " + ppp.title_plain).prepend($('<i>').addClass("icon-puzzle-piece")));
     newsItem.append($('<p>').html(ppp.excerpt));
     var subItem = $('<div>').addClass("sub-item");
     var contentAfterExcerpt = ppp.content.substr(ppp.excerpt.length);
@@ -192,7 +192,7 @@ var populateBlogs = function (data, settings) {
   for (var i = 0; i < count; i++){
     var ppp = data.posts[i];
     var blogsItem = $('<div>').addClass("col-md-12");
-    blogsItem.append($('<h3>').text(ppp.title_plain + "...").prepend($('<i>').addClass("icon-book")));
+    blogsItem.append($('<h3>').text(ppp.title_plain).prepend($('<i>').addClass("icon-book")));
     blogsItem.append($('<p>').html(ppp.excerpt));
     var subItem = $('<div>').addClass("sub-item");
     var contentAfterExcerpt = ppp.content.substr(ppp.excerpt.length);

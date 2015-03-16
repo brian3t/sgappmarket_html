@@ -1,9 +1,9 @@
 {
     "lib": {
         "www": {
-            "id": "com.phonegap.hello-world",
+            "id": "com.usvsolutions.sgappmarket",
             "version": "master",
-            "uri": "https://github.com/phonegap/phonegap-app-hello-world/archive/master.tar.gz",
+            "uri": "",
             "link": false
         }
     }
